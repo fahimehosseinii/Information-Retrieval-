@@ -1,0 +1,10 @@
+NOTEBOOK EXISTS [Notebook with the correct name exists (not graded)]: Success
+Q2 INDEX SCHEMA [Q2 index has correct schema]: Success
+Q2 INDEXED DOCUMENTS [Q2 index includes indexed documents]: Success
+Q2 QUERYPARSER SCHEMA [Q2 QP has correct schema]: Success
+Q2 VALID COMPONENTS [Index, Queryparser, and Searcher are valid]: Success
+Q3 IMPROVEMENTS [Q3 Index includes improvements]: Success
+Q3 VALID COMPONENTS [Index, Queryparser, and Searcher are valid]: Success
+Q4 GRADUATE STUDENT [Check if graduate student (not graded)]: Success
+Q4 IMPROVEMENTS [Q4 Index includes scoring improvements]: Success
+Q4 VALID COMPONENTS [Index, Queryparser, and Searcher are valid]: Success
